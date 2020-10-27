@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 4f0d2c659640e9b4fa8320a447630c81
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 95c1623fe6a03db49be864de0c3f6841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: benzovoz
+    second: {fileID: 2100000, guid: 1ac40961f48eff340ba934789492332e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black car
+    second: {fileID: 2100000, guid: 49ae9e8464698ad4d9696e342f3155ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue car
+    second: {fileID: 2100000, guid: ecb029bc1a1414e41bb6bf1d0fec4c04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bumper
+    second: {fileID: 2100000, guid: 8d237ce263443e048af7afa5992c53e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bumper mustang
+    second: {fileID: 2100000, guid: 34acfd25952c90a48b74086ab779e412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car brown
+    second: {fileID: 2100000, guid: f8c193973ac8d0946bce896b2fbf9992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car brown.001
+    second: {fileID: 2100000, guid: 1722d90bb443264419c47cb612cac59f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disk 1
+    second: {fileID: 2100000, guid: bf42c32126ac4fa4ca76ea32d8defaeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disk mustang black
+    second: {fileID: 2100000, guid: a45978b1bbab85c4e81baf40149ddaf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disk mustang blue
+    second: {fileID: 2100000, guid: 3f6bf1227b3823340be5cfc12bffb35d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disk mustang red
+    second: {fileID: 2100000, guid: 95795d03e12c1a94aac6095b0f5873b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disk mustang white
+    second: {fileID: 2100000, guid: c86a6d3753c18664cbf5c780760c5d85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disk_
+    second: {fileID: 2100000, guid: 3da66786562798f4f8e9d86ed68b4a03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fire
+    second: {fileID: 2100000, guid: ab23e813d77d463448932f0a6ff128e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fire white
+    second: {fileID: 2100000, guid: 2098ad06a11db0a47bc41a16cc5fbee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: f79b42696609f2a47a7e11051594dbde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grean car
+    second: {fileID: 2100000, guid: d5fc5d675369ca44f893d7c907a726d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gree car
+    second: {fileID: 2100000, guid: f82697a0ea00ea64ebef42bec1e7130a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headlights  red
+    second: {fileID: 2100000, guid: b5a570c7c70db2442adaa92694f4dfd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headlights blue
+    second: {fileID: 2100000, guid: bb630bc9fcccc3b4286cf811371f22ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headlights orange
+    second: {fileID: 2100000, guid: a2219f894c63bb74990b6ed3cd1f046a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headlights yelow
+    second: {fileID: 2100000, guid: 9954b1539bb82324ea173e4150e36583, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headlights_
+    second: {fileID: 2100000, guid: 6b21cea2dcee4b14380d161f2afbe1f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ice cream
+    second: {fileID: 2100000, guid: 9bf44c21e9b547a48bf2f3aa12c6c6fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ice cream horn
+    second: {fileID: 2100000, guid: e441b348a0dc197409f84b4a2b1d3b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ice cream red
+    second: {fileID: 2100000, guid: 9e3ba308e8691424ea6585cee64a6b00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ice cream whire
+    second: {fileID: 2100000, guid: 69e00c99cc8076b40b655ef61901ae03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ice cream yellow
+    second: {fileID: 2100000, guid: 211f0c9628d677f4ab0175dac635dd65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 31733c9c34049e54f892c4a8ed4415fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal black
+    second: {fileID: 2100000, guid: d7c9364c0d152f046834f37ec0a50974, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal dark
+    second: {fileID: 2100000, guid: 7d84cf2f98cc9ac4d86870098254bca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal ice cream
+    second: {fileID: 2100000, guid: 23c70898a617eca448aea49a63a55d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nomber
+    second: {fileID: 2100000, guid: badfaa36e64d9b548a0a10add1f24ded, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel
+    second: {fileID: 2100000, guid: 466a5b8268fac5b408c25a05dc44e6de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red car
+    second: {fileID: 2100000, guid: 2767d97f498203b49bb391ccefad4c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red car dark
+    second: {fileID: 2100000, guid: 0d8c891f467ed3341bbf6a49d0bc1a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: salon
+    second: {fileID: 2100000, guid: 204b40282dbaf83459b0e5232e4f2061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taxi
+    second: {fileID: 2100000, guid: 06aa7ac8a49213445b1a79d33f421f43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taxi dark
+    second: {fileID: 2100000, guid: f6e19f9af24d6694191065ba48da6eb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taxi emision
+    second: {fileID: 2100000, guid: 5d51889b19ea2b3459874b8f291b59be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: dde762fe3117daf4aaed67c85f3ec02e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel car
+    second: {fileID: 2100000, guid: ceb170fdf2800dd4e9adebf5725db59a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white car
+    second: {fileID: 2100000, guid: c3cf3d3ba92c91649b32e2a3b0f0b190, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
